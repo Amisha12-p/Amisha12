@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amisha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer "Building responsive and functional websites".</h3>
 <img align="right" alt="coding" style="width:500px; heighr="300px;" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 - 🌱 I’m currently learning **React, Django**
